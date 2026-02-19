@@ -1,0 +1,6 @@
+/* @ts-expect-error - Tailwind directives are not recognized by TypeScript CSS checker */
+@tailwind base;
+/* @ts-expect-error - Tailwind directives are not recognized by TypeScript CSS checker */
+@tailwind components;
+/* @ts-expect-error - Tailwind directives are not recognized by TypeScript CSS checker */
+@tailwind utilities;
